@@ -3,7 +3,7 @@
 	
 - 🌱 I’m currently learning about **Microservices**
 
-- 👨‍💻 All of my projects are available [here](https://www.vivek9patel.com/projects)
+- 👨‍💻 All of my projects are available [here](https://github.com/RaviMaru20)
 
 - 📫 How to reach me **ravimaruu@gmail.com**
 
